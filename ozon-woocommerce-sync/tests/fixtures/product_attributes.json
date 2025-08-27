@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "type": "dictionary",
+            "name": "Color",
+            "value": [
+                {"value": "Red"}
+            ]
+        },
+        {
+            "type": "string",
+            "name": "Size",
+            "value": "L"
+        }
+    ]
+}
