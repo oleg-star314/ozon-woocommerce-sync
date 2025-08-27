@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){var l=document.getElementById('ozon-sync-loading');var p=document.querySelector('.ozon-sync-progress');document.querySelectorAll('.ozon-sync-actions button').forEach(function(b){b.addEventListener('click',function(){l.style.display='block';p.style.width='50%';});});});
